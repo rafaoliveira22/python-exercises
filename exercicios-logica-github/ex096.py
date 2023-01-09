@@ -6,7 +6,7 @@ list_nums = []
 list_nums_pairs = []
 list_nums_odd= []
 
-while len(list_nums) < 5:
+while len(list_nums) < 20:
     num =  input('Número: ')
     if num.isdigit():
         num_int = int(num)
